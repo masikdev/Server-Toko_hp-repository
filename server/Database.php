@@ -3,7 +3,7 @@ error_reporting(1); //error ditampilkan
 
 class Database
 {   private $host="localhost";
-    private $dbname="toko_hp2";
+    private $dbname="toko_hp22";
     private $user="root";
     private $password="";
     private $port="3306";
