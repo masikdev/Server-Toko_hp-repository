@@ -72,5 +72,5 @@
             echo json_encode($data);
         } 
         unset($postdata, $data, $id_spesifikasi, $abc);               
-    }    
+    }
 ?>
